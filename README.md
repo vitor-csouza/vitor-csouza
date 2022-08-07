@@ -24,7 +24,7 @@ I'm a Information Systems student
 
 ### Contacts
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vitor-csouza/vitor-csouza/blob/output/github-contribution-grid-snake.svg)
           
 <!--
 **vitor-csouza/vitor-csouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
