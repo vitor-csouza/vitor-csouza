@@ -1,9 +1,9 @@
 # Hello, I'm Vitor Souza! 🇧🇷👋
 
-<div style="display: inline_block" align="center">
+<div style="display: inline" align="center">
   <a href="https://github.com/vitor-csouza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitor-csouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-csouza&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-csouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-csouza&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 ## Languages and Tools
