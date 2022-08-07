@@ -23,6 +23,10 @@ I'm a Information Systems student
  </div>
 
 ### Contacts
+<div>
+  <a href="https://www.linkedin.com/in/vitor-souza-55499a1b5/"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+ </div>
+  
   
  ![Snake animation](https://github.com/vitor-csouza/vitor-csouza/blob/output/github-contribution-grid-snake.svg)
           
